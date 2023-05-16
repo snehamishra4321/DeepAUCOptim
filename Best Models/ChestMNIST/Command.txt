@@ -1,0 +1,1 @@
+(ml_project) E:\Deep_AUC_Optimization_Copy>python src/chest_mnist_AUCM.py --download --data_flag=chestmnist --lr=1 --batch_size=512 --optimizer=PESG --loss=AUCM --weight_decay=1e-3 --epoch_decay=2e-5 --num_epochs=80 --based_on=val --modify_datasets=double_val --comment=weight_decay

@@ -1,0 +1,1 @@
+python src/Test.py --data_flag=adrenalmnist3d --model_path="E:\Deep_AUC_Optimization\Best Models\AdrenalMNIST3D\best_model.pth" --data_aug

@@ -1,0 +1,1 @@
+python src/Test.py --data_flag=breastmnist --model_path="E:\Deep_AUC_Optimization\Best Models\BreastMNIST\best_model.pth"

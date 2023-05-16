@@ -1,0 +1,1 @@
+python src/Test.py --data_flag=vesselmnist3d --model_path="E:\Deep_AUC_Optimization\Best Models\VesselMNIST3D\best_model.pth"

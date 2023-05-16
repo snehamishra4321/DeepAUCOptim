@@ -1,0 +1,1 @@
+python src/Test.py --data_flag=pneumoniamnist --model_path="E:\Deep_AUC_Optimization\Best Models\PneumoniaMNIST\best_model.pth"
