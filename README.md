@@ -25,4 +25,4 @@ Combining the DAM paradigm with data augmentation and robust hyperparameter opti
 The project report provides a detailed explanation of our work.
 
 
-Feel free to reach out @ [harikrishnankr16@gmail.com](mailto:sneha.mishra@tamu.edu).
+Feel free to reach out @ [sneha.mishra@tamu.edu](mailto:sneha.mishra@tamu.edu).
