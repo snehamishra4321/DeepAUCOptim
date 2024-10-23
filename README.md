@@ -1,4 +1,4 @@
-# Disease Recognition using Deep AUC Optimization
+# Cancer Detection using Deep AUC Optimization
 
 Deep AUC Maximization (DAM) is a powerful technique for training deep neural networks that involves optimizing the AUC score on a given dataset. While DAM has shown impressive results in medical image classification, it can be prone to overfitting on smaller datasets, leading to poor generalization performance. The goal of this project is to investigate ways to improve the generalization ability of DAM on medical image classification tasks.
 
