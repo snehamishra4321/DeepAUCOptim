@@ -1,9 +1,28 @@
 # Deep_AUC_Optimization_Research_Project
 
 Deep AUC Maximization (DAM) is a powerful technique for training deep neural networks that involves optimizing the AUC score on a given dataset. While DAM has shown impressive results in medical image classification, it can be prone to overfitting on smaller datasets, leading to poor generalization performance. The goal of this project is to investigate ways to improve the generalization ability of DAM on medical image classification tasks.
+# Disease Recognition using Deep AUC Optimization
 
-To achieve this, we will conduct experiments on seven medical image classification tasks from the MedMNIST website using the LibAUC library. We will compare our results with the benchmark performance reported in the MedMNIST paper and other state-of-the-art methods using the ResNet 18 ( ResNet 18-3D for 3D datasets) backbone structure as in the MedMNIST paper to ensure a fair comparison. We will also experiment with different hyperparameters and techniques to improve the generalization ability of DAM.
+It is a new paradigm for learning a deep neural network by maximizing the AUC score of the model on a dataset. It has broad range of applications, including training ChatGPT. In this project, we make use of Deep AUC Optimization to break the existing benchmark on MedMNIST datasets. Specifically, our work has been focused on the below datasets.
 
-Our experiments will provide valuable insights into the potential of DAM for medical image classification and its limitations. We will report our results in terms of AUC score and test accuracy, providing a robust measure of classification performance that is insensitive to class imbalance.
+2D Datasets : 
+- BreastMNIST 
+- PneumoniaMNIST
+- ChestMNIST  [Multiclass classification]
 
-In conclusion, this project aims to improve the generalization ability of DAM for medical image classification tasks and provides valuable insights into the potential of this technique. Please see our documentation for more details on our experimental setup and results.
+3D Datasets : 
+- NoduleMNIST3D
+- AdrenalMNIST3D
+- VesselMNIST3D
+- SynapseMNIST3D
+
+Further details on the  dataset can be found at [MedMNIST dataset](https://medmnist.com/)
+
+Combining the DAM paradigm with data augmentation and robust hyperparameter optimization, we were able to surpass the existing benchmark on 4 out of 7 datasets. Below are our results.
+
+![img](./Results.png)
+
+The project report provides a detailed explanation of our work.
+
+
+Feel free to reach out @ [harikrishnankr16@gmail.com](mailto:sneha.mishra@tamu.edu).
